@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cynthia-Wairimu
-- 👀 I’m interested in Python for IT
-- 🌱 I’m currently learning DevOps
+- 👀 I’m interested in Python for Data Science
+- 🌱 I’m currently learning Computer and Data Science.
 
 
 <!---
