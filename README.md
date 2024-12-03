@@ -5,11 +5,11 @@ Welcome to my GitHub profile! I'm a passionate developer, and a lifelong learner
 ---
 
 ### 🌟 About Me
-- 🔭 Currently working on: MIT Emerging Talent Computer Science and Data Science Program.
-- 🌱 Learning: Python for Data Science.
-- 💡 Interested in: Coding Projects.
-- 🎯 Goal: Become a professional Data Scientist.
-- ⚡ Fun fact: I’ve explored 10 countries and counting! 🌍
+- 🔭 Currently working on: **MIT Emerging Talent Computer Science and Data Science Program.**
+- 🌱 Learning: **Data Science, Cloud Computing, and Advanced Python Techniques**
+- 💡 Interested in: **AI, Automation, and Scalable Software Development**
+- 🎯 Goal: **To contribute to impactful open-source projects**
+- ⚡ Fun fact: **I’ve explored 10 countries and counting! 🌍**
 
 ---
 
@@ -28,10 +28,10 @@ Welcome to my GitHub profile! I'm a passionate developer, and a lifelong learner
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Cynthia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cynthia-Wairimu&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cynthia-Wairimu&layout=compact&theme=radical)
 
---
+Thank you for visiting my profile! Feel free to check out my repositories and connect. Let's collaborate to create something awesome! 🚀--
 <!---
 Cynthia-Wairimu/Cynthia-Wairimu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
