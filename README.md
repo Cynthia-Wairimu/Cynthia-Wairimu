@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I'm a passionate developer, and a lifelong learner
 
 ### 🌟 About Me
 - 🔭 Currently working on: **MIT Emerging Talent Computer Science and Data Science Program.**
-- 🌱 Learning: **Data Science, Cloud Computing, and Advanced Python Techniques**
-- 💡 Interested in: **AI, Automation, and Scalable Software Development**
-- 🎯 Goal: **To contribute to impactful open-source projects**
+- 🌱 Learning: **Data Science, Cloud Computing, and Advanced Python Techniques.**
+- 💡 Interested in: **AI, Automation, and Scalable Software Development.**
+- 🎯 Goal: **To contribute to impactful open-source projects.**
 - ⚡ Fun fact: **I’ve explored 10 countries and counting! 🌍**
 
 ---
